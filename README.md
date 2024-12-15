@@ -38,5 +38,7 @@ git clone <repository_url>
 
 - View tasks in a dynamic table
 
-
+![Screenshot 2024-12-15 194823](https://github.com/user-attachments/assets/2f104063-0830-44a9-a071-68891348ce66)
+![Screenshot 2024-12-15 195015](https://github.com/user-attachments/assets/1b2f813d-8959-4263-86f8-608e8c821eec)
+![Screenshot 2024-12-15 195029](https://github.com/user-attachments/assets/79d24e14-6940-4db2-8fd0-585553047b4b)
 
